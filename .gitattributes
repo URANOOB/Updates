@@ -1,0 +1,4 @@
+# Mantiene finales de línea consistentes entre sistemas.
+* text=auto eol=lf
+*.md text eol=lf
+*.txt text eol=lf
